@@ -3,5 +3,9 @@ public class Main {
     public static void main(String[] args) {
 	    // write your code here
 	    System.out.println("Hello World!");
+	    
+	    
+	    //試験問題のmainをコール
+	    PeriodTest.main(args);
     }
 }
